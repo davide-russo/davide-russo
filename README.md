@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👨🏻‍💻, I'm Davide</h1>
+<h1 align="center">Hi 🖖🏻, I'm Davide 👨🏻‍💻</h1>
 <h3 align="center">I am a software development enthusiast since my childhood. I work as a Senior Frontend Developer in Sparkfabrik.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davide-russo&label=Profile%20views&color=147aff&style=flat" alt="davide-russo" /> </p>
