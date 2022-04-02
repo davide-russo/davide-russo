@@ -1,7 +1,15 @@
 <h1 align="center">Hi 🖖🏻, I'm Davide 👨🏻‍💻</h1>
-<h3 align="center">I am a software development enthusiast since my childhood.<br/>I currently work as a Senior Frontend Developer in <a href="https://www.sparkfabrik.com">SparkFabrik</a>.</h3>
 
+<div align="left">
+  <a href="https://app.daily.dev/davide_russo"><img width="256"
+      align="right" src="https://api.daily.dev/devcards/073f79f952a8468496afa97552010c76.png?r=qd8" alt="Davide's Dev Card"/></a>
+</div>
+
+<h3 align="left">I am a software development enthusiast since my childhood.<br/>I currently work as a Senior Frontend Developer in <a href="https://www.sparkfabrik.com">SparkFabrik</a>.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davide-russo&label=Profile%20views&color=147aff&style=flat" alt="davide-russo" /> </p>
+<br /><br /><br /><br /><br />
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
