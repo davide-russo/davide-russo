@@ -2,7 +2,7 @@
 
 <h3 align="center">I am a software development enthusiast since my childhood.<br/>I currently work as a Senior Frontend Developer in <a href="https://www.sparkfabrik.com">SparkFabrik</a>.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davide-russo&label=Profile%20views&color=147aff&style=flat" alt="davide-russo" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=davide-russo&label=Profile%20views&color=147aff&style=flat" alt="davide-russo" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
